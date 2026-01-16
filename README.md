@@ -82,4 +82,4 @@ This framework helps government decision-making **without compromising privacy**
 
 ---
 
-Copyright © 2026. Team [Your Team Name].
+Copyright © 2026. Team UIDAI_3572.
