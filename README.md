@@ -1,6 +1,6 @@
 # 🇮🇳 Aadhaar Insight: National Governance Intelligence Framework
 
-> **Winner/Finalist**: UIDAI Data Hackathon 2026
+> UIDAI Data Hackathon 2026
 > **Theme**: Unlocking Societal Trends in Aadhaar Enrolment & Updates
 
 ## 📜 Overview
